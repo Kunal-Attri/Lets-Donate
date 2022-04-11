@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_universal_donor.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_universal_donor.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_a_pos.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_a_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_b_neg.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_b_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_apply.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/fragment_apply.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/loading.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/loading.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_o_neg.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_o_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_o_pos.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_o_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_ab_pos.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_ab_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_donate.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/fragment_donate.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_universal_recipient.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_universal_recipient.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_b_pos.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_b_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_ab_neg.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_ab_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dashboard_item_a_neg.xml",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_a_neg.xml"
+    }
+]

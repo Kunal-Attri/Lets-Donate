@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="blood_groups">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <color name="background">#F7F7FA</color>
+    <color name="background_dark">#252c4b</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#ffffff</color>
+    <color name="card_background_dark">#27325f</color>
+    <color name="dashboard_item_1">#2CC2EA</color>
+    <color name="dashboard_item_2">#4de9c9</color>
+    <color name="dashboard_item_3">#72a4ff</color>
+    <color name="dashboard_item_4">#8f52ff</color>
+    <color name="primary">#6A7CFF</color>
+    <color name="primary_dark">#667aff</color>
+    <color name="primary_text">#565B65</color>
+    <color name="primary_text_dark">#ffffff</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="secondary_text">#9b9a9d</color>
+    <color name="secondary_text_dark">#797f95</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">Lets Donate</string>
+    <string name="count">404</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="default_web_client_id" translatable="false">645266423142-joeot670jesd09vae9culghfi7knaid2.apps.googleusercontent.com</string>
+    <string name="first_text">Donors</string>
+    <string name="gcm_defaultSenderId" translatable="false">645266423142</string>
+    <string name="google_api_key" translatable="false">AIzaSyDV9SoxZFSWUl4cvERpZSBqXuNg9Zk4QTs</string>
+    <string name="google_app_id" translatable="false">1:645266423142:android:6b4eaadd851b14e67f5ca7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDV9SoxZFSWUl4cvERpZSBqXuNg9Zk4QTs</string>
+    <string name="google_storage_bucket" translatable="false">let-donate.appspot.com</string>
+    <string name="people_with_blood_group_ab_can_accept_blood_from_all_other_types_of_blood_groups_hence_it_is_known_as_universal_recipient">People with blood group AB+ can accept blood from all other blood groups. Hence, it is also known as Universal Recipient!</string>
+    <string name="people_with_blood_group_o_can_donate_blood_to_all_other_blood_groups_hence_they_are_also_known_as_universal_donors">People with blood group O- can donate blood to all other blood groups. Hence, it is also known as Universal Donor!</string>
+    <string name="project_id" translatable="false">let-donate</string>
+    <string name="second_text">Receivers</string>
+    <string name="title_apply">Apply</string>
+    <string name="title_donate">Donate</string>
+    <string name="title_home">Home</string>
+    <string name="universal_donor">Universal Donor</string>
+    <string name="universal_recipient">Universal Recipient</string>
+    <style name="Theme.LetsDonate" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+        
+        <item name="background">@color/background</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/primary</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

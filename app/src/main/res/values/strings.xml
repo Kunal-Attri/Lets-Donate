@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools" >
+    <string name="app_name">Lets Donate</string>
+    <string name="title_home">Home</string>
+    <string name="title_donate">Donate</string>
+    <string name="title_apply">Apply</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="first_text">Donors</string>
+    <string name="count">404</string>
+    <string name="second_text">Receivers</string>
+    <string name="people_with_blood_group_o_can_donate_blood_to_all_other_blood_groups_hence_they_are_also_known_as_universal_donors">People with blood group O- can donate blood to all other blood groups. Hence, it is also known as Universal Donor!</string>
+    <string name="universal_donor">Universal Donor</string>
+    <string name="universal_recipient">Universal Recipient</string>
+    <string name="people_with_blood_group_ab_can_accept_blood_from_all_other_types_of_blood_groups_hence_it_is_known_as_universal_recipient">People with blood group AB+ can accept blood from all other blood groups. Hence, it is also known as Universal Recipient!</string>
+    <string-array name="blood_groups">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+</resources>

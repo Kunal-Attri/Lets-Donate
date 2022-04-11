@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645266423142",
+    "project_id": "let-donate",
+    "storage_bucket": "let-donate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645266423142:android:6b4eaadd851b14e67f5ca7",
+        "android_client_info": {
+          "package_name": "com.kunalattri.letsdonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645266423142-joeot670jesd09vae9culghfi7knaid2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9SoxZFSWUl4cvERpZSBqXuNg9Zk4QTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645266423142-joeot670jesd09vae9culghfi7knaid2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

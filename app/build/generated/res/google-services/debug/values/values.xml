@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">645266423142-joeot670jesd09vae9culghfi7knaid2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">645266423142</string>
+    <string name="google_api_key" translatable="false">AIzaSyDV9SoxZFSWUl4cvERpZSBqXuNg9Zk4QTs</string>
+    <string name="google_app_id" translatable="false">1:645266423142:android:6b4eaadd851b14e67f5ca7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDV9SoxZFSWUl4cvERpZSBqXuNg9Zk4QTs</string>
+    <string name="google_storage_bucket" translatable="false">let-donate.appspot.com</string>
+    <string name="project_id" translatable="false">let-donate</string>
+</resources>

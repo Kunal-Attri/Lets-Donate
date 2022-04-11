@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_location_temp.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_location_temp.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_fragment_donate.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/fragment_donate.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_a_pos.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_a_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_ab_neg.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_ab_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_o_neg.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_o_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_b_pos.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_b_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_b_pos.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_b_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_apply.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_apply.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_donor_count.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_donor_count.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_b_neg.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_b_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_ab_pos.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_ab_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_loading.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/loading.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_ab_neg.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_ab_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_list_item.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_fragment_apply.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/fragment_apply.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_donate.png.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/donate.png"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_receiver_count.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_receiver_count.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_donate.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_donate.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_b_neg.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_b_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_universal_recipient.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_universal_recipient.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_home.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_a_pos.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_a_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_o_neg.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_o_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_rounded_corners.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/rounded_corners.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_universal_donor.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_universal_donor.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_o_pos.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_o_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_ab_pos.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_ab_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_o_pos.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_o_pos.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/layout_dashboard_item_a_neg.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/layout/dashboard_item_a_neg.xml"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_donate1.png.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/donate1.png"
+    },
+    {
+        "merged": "/mnt/Local Disk/Coder/Android/LetsDonate/app/build/intermediates/merged_res/debug/drawable_ic_a_neg.xml.flat",
+        "source": "/mnt/Local Disk/Coder/Android/LetsDonate/app/src/main/res/drawable/ic_a_neg.xml"
+    }
+]
